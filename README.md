@@ -3,7 +3,7 @@
 
 Este proyecto, hace uso de [Create React App](https://github.com/facebook/create-react-app) y se ha realizado con fines foromativos.  
 
-Artistas y Canciones es una aplicación sencilla que trae frases de la serie de televisión Breaking Bad.
+Artistas y Canciones es una aplicación sencilla que trae la letra de la canción así como la información del grupo seleccionado por el usuario
 
 ## Aprendizaje
 

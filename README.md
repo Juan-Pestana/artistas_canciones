@@ -9,7 +9,7 @@ Artistas y Canciones es una aplicación sencilla que trae la letra de la canció
 
 Practicamos la captura de información de las bandas y canciones, en esta ocasión mediante la integración de la llamada a dos API's
 
-Hooks UseState UseEffect
+Hooks useState useEffect
 
 ## Estilos
 
